@@ -9,11 +9,8 @@
 
 
 @section{Introduction}
+@defmodulelang[jsonic5]
 
-@defmodulelang[jsonic]
-
-
-  
 
 This is a domain-specific language.
 that relies on the @racketmodname[json] library.
