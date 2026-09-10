@@ -1,0 +1,1 @@
+("8.15" ta6le ("cc614ea1fe22e5659c1cadc977021d5b088c51ce" . "ec1868cc7726cb296130ec87a3f1c7ac6287b57a") (collects #"br" #"main.rkt") (collects #"br" #"quicklang.rkt") (collects #"jsonic5" #"reader.rkt") (collects #"racket" #"runtime-config.rkt"))

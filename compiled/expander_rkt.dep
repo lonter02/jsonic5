@@ -1,0 +1,1 @@
+("8.15" ta6le ("c41b86743e24430a17c1d64125e2145ea46fa919" . "9a8b3115989f24a890804350b79154fb88243800") (collects #"br" #"quicklang.rkt") (collects #"json" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
